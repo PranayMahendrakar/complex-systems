@@ -4,3 +4,4 @@
 - [2026-05-02T15:14:22Z] perf: optimize loop for better performance
 - [2026-05-02T16:06:05Z] docs: update README with usage examples
 - [2026-05-02T16:20:54Z] test: add unit tests for core module
+- [2026-05-02T15:48:44Z] test: add unit tests for core module
