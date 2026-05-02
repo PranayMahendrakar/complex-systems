@@ -6,3 +6,4 @@
 - [2026-05-02T16:20:54Z] test: add unit tests for core module
 - [2026-05-02T15:48:44Z] test: add unit tests for core module
 - [2026-05-02T12:25:58Z] test: add unit tests for core module
+- [2026-05-02T22:29:59Z] fix: handle null pointer exception
